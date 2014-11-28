@@ -2,4 +2,4 @@ learn-git
 =========
 
 * second commit
-おねくりだ
+おねくりだよ
